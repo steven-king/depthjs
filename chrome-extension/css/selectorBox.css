@@ -1,6 +1,6 @@
 #DepthJS_selectorBox{
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#5170f7', endColorstr='#264ef3'); /* for IE */
-  background: -webkit-gradient(linear, left top, left bottom, from(#5170f7), to(#264ef3)); /* for webkit browsers */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#56A0D3', endColorstr='#288ed5'); /* for IE */
+  background: -webkit-gradient(linear, left top, left bottom, from(#56A0D3), to(#288ed5)); /* for webkit browsers */
   background: -moz-linear-gradient(top,  #5170f7,  #264ef3); /* for firefox 3.6+ */
 
   height:150px;
